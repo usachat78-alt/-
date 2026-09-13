@@ -1,0 +1,6 @@
+{
+  "name": "แบบทดสอบออนไลน์ ตรรกศาสตร์ ม.4",
+  "description": "ระบบสร้างและจัดการข้อสอบออนไลน์ตรรกศาสตร์เบื้องต้น ม.4 เชื่อมต่อ Google Forms สัญลักษณ์ทางคณิตศาสตร์ครบถ้วน ไม่เพี้ยน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
